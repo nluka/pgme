@@ -1,0 +1,5 @@
+.vscode/settings.json
+*.exe
+*.obj
+*.ilk
+*.pdb
