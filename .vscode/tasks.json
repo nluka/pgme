@@ -10,7 +10,9 @@
         "/EHsc",
         "/Fe:",
         "pgme.exe",
-        "src/*.cpp"
+        "/std:c++20",
+        "src/*.cpp",
+        "cpp-lib-4.0.0/impl/*.cpp"
       ],
       "problemMatcher": ["$msCompile"],
       "group": {
